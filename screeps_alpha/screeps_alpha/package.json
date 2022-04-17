@@ -1,0 +1,12 @@
+{
+  "name": "screeps_alpha",
+  "version": "0.0.0",
+  "description": "screeps_alpha",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@types/screeps": "^3.2.4"
+  }
+}

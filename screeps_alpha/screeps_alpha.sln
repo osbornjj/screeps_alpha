@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "screeps_alpha", "screeps_alpha\screeps_alpha.njsproj", "{7CD37C6A-C089-49CB-A1CC-A8F5A726C92E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD37C6A-C089-49CB-A1CC-A8F5A726C92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD37C6A-C089-49CB-A1CC-A8F5A726C92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD37C6A-C089-49CB-A1CC-A8F5A726C92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD37C6A-C089-49CB-A1CC-A8F5A726C92E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B83CCF-91E9-47B3-B2E6-217703F117DC}
+	EndGlobalSection
+EndGlobal
